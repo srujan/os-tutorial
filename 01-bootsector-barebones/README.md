@@ -53,7 +53,7 @@ To compile:
 
 I know you're anxious to try it out (I am!), so let's do it:
 
-`qemu boot_sect_simple.bin`
+`qemu-system-i386 boot_sect_simple.bin`
 
 You will see a window open which says "Booting from Hard Disk..." and
 nothing else. When was the last time you were so excited to see an infinite
